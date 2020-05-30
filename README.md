@@ -1,2 +1,3 @@
 # Generalized_Makespan
 Calculates the makespan time of n jobs passing through m machines. 
+The following repository contains python code for calculating the makespan time of n jobs passing through m machines. The basic objective os to solve a dynamic scheduling problem. I have created an algorithm which allows you to either the jobs and their processing time on respective machines individually or it also has the feature of letting you pass a csv file or a simple text file containing the jobs and their processing time. On running the code you will obtain the makespan time for various combinations of order you want to test, in order to get that particular order where you obtain minimum makespan time and make your manufacturing process most efficient. 
